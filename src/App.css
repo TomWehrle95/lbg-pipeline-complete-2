@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid teal;
+  border: 3px solid palevioletred;
   padding: 10px;
 }
 
@@ -13,14 +13,18 @@
 }
 
 h1 { 
-    color: maroon;
+    color: yellow;
 }
 
 h3 { 
-  color: slategray;
+  color: orangered;
 }
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: peachpuff;
+}
+
+footer{
+  color: forestgreen;
 }
